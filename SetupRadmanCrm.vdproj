@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_61F85F64145B4DF88020B6B901F3CA14"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_8CCA920B015242F0A021DE303C037F3C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -122,6 +128,26 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_61F85F64145B4DF88020B6B901F3CA14"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\AppData\\Roaming\\Radman\\RadmanCrm\\Profile.json"
+            "TargetName" = "8:Profile.json"
+            "Tag" = "8:"
+            "Folder" = "8:_9ECF77CE04954DE283D422285D0732CC"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8CCA920B015242F0A021DE303C037F3C"
             {
             "SourcePath" = "8:..\\RadmanCrm\\bin\\Debug\\net6.0-windows\\icon.ico"
@@ -157,6 +183,39 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
+                }
+            }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_5112E502CCFE4F3181319C412C6B8216"
+            {
+            "Name" = "8:#1915"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:AppDataFolder"
+                "Folders"
+                {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_3B4A059071D04BCFA15D7D6DC9AE81F4"
+                    {
+                    "Name" = "8:Radman"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_4BFF8C5F036248E8B441B5C3B07157E7"
+                        "Folders"
+                        {
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_9ECF77CE04954DE283D422285D0732CC"
+                            {
+                            "Name" = "8:RadmanCrm"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_A57C23EEF38E43168C573AF56E56171F"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
                 }
             }
             "{1525181F-901A-416C-8A58-119130FE478E}:_788F066D71D94F76B10B5301AD567800"
@@ -199,7 +258,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:RadmanCrm"
         "ProductCode" = "8:{92BF4063-BF9C-4A4C-9613-CBEC7FD74627}"
-        "PackageCode" = "8:{2B44DB14-4AA0-4C98-8C86-EE6253FDB3D4}"
+        "PackageCode" = "8:{C2D054FE-3DD1-4902-B266-A840F6D5E4AD}"
         "UpgradeCode" = "8:{780D58C7-DC29-4B04-B9B3-C29BF6B07A81}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
