@@ -191,7 +191,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:SetupRadmanCrm"
         "ProductCode" = "8:{92BF4063-BF9C-4A4C-9613-CBEC7FD74627}"
-        "PackageCode" = "8:{BAB84701-1BAC-4180-9194-3343DA3D55FF}"
+        "PackageCode" = "8:{2B44DB14-4AA0-4C98-8C86-EE6253FDB3D4}"
         "UpgradeCode" = "8:{780D58C7-DC29-4B04-B9B3-C29BF6B07A81}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -311,23 +311,9 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_1C1722A132334CE1A7698674DEF12411"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_D07D985474614286A2DF17FA32201620"
             {
-            "Name" = "8:Shortcut to icon.ico"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_8CCA920B015242F0A021DE303C037F3C"
-            "Folder" = "8:_E8489D01516A498891A37669E177DD1F"
-            "WorkingFolder" = "8:_E8489D01516A498891A37669E177DD1F"
-            "Icon" = "8:"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_728C9BD920714986ABD77332765E67E7"
-            {
-            "Name" = "8:settup"
+            "Name" = "8:RadmanCrm"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
@@ -336,7 +322,7 @@
             "Target" = "8:_F6C03CD821B34AD98B7322121D65347B"
             "Folder" = "8:_788F066D71D94F76B10B5301AD567800"
             "WorkingFolder" = "8:_E8489D01516A498891A37669E177DD1F"
-            "Icon" = "8:"
+            "Icon" = "8:_8CCA920B015242F0A021DE303C037F3C"
             "Feature" = "8:"
             }
         }
