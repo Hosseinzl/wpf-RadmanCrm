@@ -15,12 +15,6 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_61F85F64145B4DF88020B6B901F3CA14"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_832DD7DBBE9B42AAB6A28CBABC44A00A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -134,26 +128,6 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_61F85F64145B4DF88020B6B901F3CA14"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\AppData\\Roaming\\Radman\\RadmanCrm\\Profile.json"
-            "TargetName" = "8:Profile.json"
-            "Tag" = "8:"
-            "Folder" = "8:_9ECF77CE04954DE283D422285D0732CC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:TRUE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_832DD7DBBE9B42AAB6A28CBABC44A00A"
             {
             "SourcePath" = "8:..\\..\\..\\..\\AppData\\Roaming\\Radman\\RadmanCrm\\Profile.json"
